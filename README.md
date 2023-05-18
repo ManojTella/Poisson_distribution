@@ -79,7 +79,7 @@ else:
  ```
 
 # Output : 
-![output](https://github.com/RuchithaReddy28/Poisson_distribution/blob/main/q1.png?raw=true)
+![1](https://github.com/ManojTella/Poisson_distribution/assets/94883876/f20667e1-aba7-4910-8c87-d98ec3f89420)
 
 
 
